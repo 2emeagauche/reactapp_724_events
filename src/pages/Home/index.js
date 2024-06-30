@@ -143,16 +143,16 @@ const Page = () => {
         <div>01 23 45 67 89</div>
         <div>contact@724events.com</div>
         <div>
-          <a href="#twitch">
+          <a href="#twitch" aria-label="twitch">
             <Icon name="twitch" />
           </a>
-          <a href="#facebook">
+          <a href="#facebook" aria-label="facebook">
             <Icon name="facebook" />
           </a>
-          <a href="#twitter">
+          <a href="#twitter" aria-label="twitter">
             <Icon name="twitter" />
           </a>
-          <a href="#youtube">
+          <a href="#youtube" aria-label="youtube">
             <Icon name="youtube" />
           </a>
         </div>

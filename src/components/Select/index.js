@@ -60,6 +60,7 @@ const Select = ({
             e.preventDefault();
             setCollapsed(!collapsed);
           }}
+          aria-label="collapse"
         >
           <Arrow />
         </button>
